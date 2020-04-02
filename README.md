@@ -1,2 +1,2 @@
-flask_blog using pycharm bro
+flask_blog app using pycharm
 
