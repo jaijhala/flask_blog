@@ -1,2 +1,3 @@
-flask_blog using pycharm
+Blog app using Flask framework
+
 
